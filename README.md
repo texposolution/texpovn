@@ -1,0 +1,2 @@
+# texpovn
+PHẦN MỀM ERP QUẢN LÝ KHO - CỬA HÀNG BÁN VẢI CHO DOANH NGHIỆP
