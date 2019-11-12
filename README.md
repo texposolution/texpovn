@@ -1,6 +1,8 @@
 # texpovn
 PHẦN MỀM ERP QUẢN LÝ KHO - CỬA HÀNG BÁN VẢI CHO DOANH NGHIỆP
 
+<p><a href='#'><img src='https://raw.githubusercontent.com/simplcommerce/SimplCommerce/master/modular-architecture.png'/></a></p>
+
 Đăng ký dùng thử: www.texpo.vn
 
 Liên hệ: 
